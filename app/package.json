@@ -19,7 +19,7 @@
     "electron": "12.2.3",
     "electron-context-menu": "^2.5.0",
     "electron-rebuild": "^2.3.5",
-    "patch-package": "^6.2.2"
+    "patch-package": "^6.5.1"
   },
   "dependencies": {
     "@electron/remote": "^1.1.0",
